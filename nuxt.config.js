@@ -1,4 +1,7 @@
 module.exports = {
+  css: [
+    'bootstrap-nucleus'
+  ],
   /*
   ** Headers of the page
   */
